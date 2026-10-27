@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 260" font-family="Nunito, Arial, sans-serif"><rect width="320" height="260" rx="16" fill="#ffffff"/>
+  <rect x="118" y="34" width="24" height="14" rx="3" fill="#adb5bd" stroke="#1a2032" stroke-width="2"/>
+  <rect x="90" y="46" width="80" height="170" rx="10" fill="#f59f00" stroke="#1a2032" stroke-width="3"/>
+  <rect x="90" y="150" width="80" height="66" rx="10" fill="#343a40"/>
+  <rect x="92" y="212" width="76" height="10" rx="3" fill="#adb5bd" stroke="#1a2032" stroke-width="2"/>
+  <text x="130" y="110" text-anchor="middle" font-size="34" font-weight="800" fill="#1a2032">+</text>
+  <line x1="146" y1="40" x2="215" y2="40" stroke="#5a6379" stroke-width="2"/>
+  <text x="220" y="36" font-size="15" font-weight="800" fill="#1a2032">+ terminal</text>
+  <text x="220" y="54" font-size="13" fill="#5a6379">metal cap</text>
+  <line x1="170" y1="218" x2="215" y2="218" stroke="#5a6379" stroke-width="2"/>
+  <text x="220" y="214" font-size="15" font-weight="800" fill="#1a2032">− terminal</text>
+  <text x="220" y="232" font-size="13" fill="#5a6379">flat metal base</text>
+  <text x="40" y="132" text-anchor="middle" font-size="15" font-weight="800" fill="#1a2032">Cell</text></svg>

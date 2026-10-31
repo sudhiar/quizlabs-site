@@ -1,8 +1,8 @@
-:HL["/quizlabs-site/_next/static/chunks/3az5ku341m_wj.css","style"]
+:HL["/quizlabs-site/_next/static/chunks/3wu2-eb1jhzkd.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap","style"]
 5:[["children",{"s":"__PAGE__","h":160}]]
 4:[["children",{"s":{"n":"paper","t":"d","k":"ch13","s":[]},"h":65632,"c":"$Q5"}]]
 3:[["children",{"s":"test","h":131168,"c":"$Q4"}]]
 2:[["children",{"s":{"n":"subject","t":"d","k":"mathematics","s":[]},"h":196704,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"grade","t":"d","k":"7","s":[]},"h":196704,"c":"$Q2"}]]
-0:{"b":"hWUWhv6VQDtvgfDuncWQI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"na7wwlyRCgL9ZBMvpXXhE","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

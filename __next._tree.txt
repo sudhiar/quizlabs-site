@@ -1,4 +1,4 @@
-:HL["/quizlabs-site/_next/static/chunks/3az5ku341m_wj.css","style"]
+:HL["/quizlabs-site/_next/static/chunks/3wu2-eb1jhzkd.css","style"]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"hWUWhv6VQDtvgfDuncWQI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"na7wwlyRCgL9ZBMvpXXhE","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

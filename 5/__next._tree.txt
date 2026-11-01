@@ -1,0 +1,5 @@
+:HL["/quizlabs-site/_next/static/chunks/2d493sccf_9j1.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":{"n":"grade","t":"d","k":"5","s":[]},"h":65600,"c":"$Q2"}]]
+0:{"b":"31OnathVhQRroUWg7s7XV","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 290" font-family="Nunito, Arial, sans-serif">
+  <defs>
+    <marker id="tip" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 Z" fill="#5a6379"/></marker>
+  </defs>
+  <rect width="420" height="290" rx="16" fill="#e6f2ff"/>
+  <!-- sun -->
+  <g stroke="#f2b632" stroke-width="3" stroke-linecap="round">
+    <path d="M52 14v8M52 78v8M16 50h8M80 50h8M27 25l6 6M71 69l6 6M27 75l6-6M71 31l6-6"/>
+  </g>
+  <circle cx="52" cy="50" r="20" fill="#f6c445"/>
+  <!-- clouds -->
+  <g fill="#ffffff" stroke="#9fb3c8" stroke-width="2">
+    <path d="M222 66 a18 18 0 0 1 8-32 a24 24 0 0 1 44-6 a18 18 0 0 1 28 14 a14 14 0 0 1-2 24 Z"/>
+  </g>
+  <!-- rain -->
+  <g stroke="#3b78e7" stroke-width="3" stroke-linecap="round">
+    <path d="M238 78l-5 12M256 80l-5 12M274 78l-5 12M292 80l-5 12M246 98l-5 12M264 100l-5 12M282 98l-5 12"/>
+  </g>
+  <!-- ground and mountain -->
+  <path d="M168 205 L420 205 L420 290 L168 290 Z" fill="#c69a63"/>
+  <path d="M250 205 L352 92 L420 160 L420 205 Z" fill="#7fa86a"/>
+  <path d="M336 110 L352 92 L370 110 L360 106 L352 114 L344 106 Z" fill="#ffffff"/>
+  <path d="M168 205 C200 196 230 200 250 205 Z" fill="#7fa86a"/>
+  <!-- groundwater -->
+  <path d="M168 252 L420 252 L420 290 L168 290 Z" fill="#7fb6e6"/>
+  <g fill="#ffffff" opacity=".7">
+    <circle cx="200" cy="266" r="3"/><circle cx="236" cy="276" r="3"/><circle cx="272" cy="264" r="3"/><circle cx="318" cy="278" r="3"/><circle cx="356" cy="266" r="3"/><circle cx="396" cy="276" r="3"/>
+  </g>
+  <g stroke="#3b78e7" stroke-width="2" stroke-dasharray="3 4" fill="none">
+    <path d="M290 212v34M330 212v34M370 212v34" marker-end="url(#tip)"/>
+  </g>
+  <!-- river -->
+  <path d="M346 140 C330 168 300 176 272 186 C240 198 210 204 168 214" fill="none" stroke="#4a90d9" stroke-width="8" stroke-linecap="round"/>
+  <!-- sea -->
+  <path d="M0 200 L172 200 L172 290 L16 290 A16 16 0 0 1 0 274 Z" fill="#3f86d4"/>
+  <g stroke="#ffffff" stroke-width="2" fill="none" opacity=".8">
+    <path d="M20 222 q8 -6 16 0 t16 0M80 242 q8 -6 16 0 t16 0M30 266 q8 -6 16 0 t16 0M110 270 q8 -6 16 0 t16 0"/>
+  </g>
+  <!-- water vapour rising -->
+  <g stroke="#5a6379" stroke-width="2.5" fill="none" stroke-dasharray="5 5">
+    <path d="M60 190 q-10 -18 0 -36 t0 -36" marker-end="url(#tip)"/>
+    <path d="M110 190 q-10 -18 0 -36 t0 -36" marker-end="url(#tip)"/>
+    <path d="M130 100 C160 70 180 56 210 52" marker-end="url(#tip)"/>
+  </g>
+</svg>
